@@ -1,9 +1,9 @@
-https://www.tabularmusings.com/posts/feature-interactions-dcnv2/   Redek
+* https://www.tabularmusings.com/posts/feature-interactions-dcnv2/   Redek
 
-https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html
+* https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html
 
-https://nn.labml.ai/    Annotated PyTorch Paper Implementations
+* https://nn.labml.ai/    Annotated PyTorch Paper Implementations
 
 Repos:
-1 . https://github.com/radekosmulski/NVTabular
-2 . https://github.com/tunguz/TabularBenchmarks  (Tabular Bench Marking Repo)
+* 1 . https://github.com/radekosmulski/NVTabular
+* 2 . https://github.com/tunguz/TabularBenchmarks  (Tabular Bench Marking Repo)
