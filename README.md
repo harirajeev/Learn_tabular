@@ -6,3 +6,4 @@ https://nn.labml.ai/    Annotated PyTorch Paper Implementations
 
 Repos:
 1 . https://github.com/radekosmulski/NVTabular
+2 . https://github.com/tunguz/TabularBenchmarks  (Tabular Bench Marking Repo)
