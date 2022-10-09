@@ -6,6 +6,7 @@
 
 Techniques:
 * [HistGradientClassifier](https://github.com/tunguz/TabularBenchmarks/blob/main/datasets/loan/scripts/HGBC.ipynb)
+* [XGBOOST](https://github.com/tunguz/TabularBenchmarks/blob/main/datasets/loan/scripts/XGB_0.ipynb)
 
 Repos:
 * 1 . https://github.com/radekosmulski/NVTabular
