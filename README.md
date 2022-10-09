@@ -1,3 +1,5 @@
+# Learning notes on Tabular Data. 
+
 * https://www.tabularmusings.com/posts/feature-interactions-dcnv2/   Redek
 * https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html
 * Tabular Data: Deep Learning is Not All You Need: https://arxiv.org/abs/2106.03253
