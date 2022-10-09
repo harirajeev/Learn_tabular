@@ -4,6 +4,9 @@
 
 * https://nn.labml.ai/    Annotated PyTorch Paper Implementations
 
+Techniques:
+* [HistGradientClassifier](https://github.com/tunguz/TabularBenchmarks/blob/main/datasets/loan/scripts/HGBC.ipynb)
+
 Repos:
 * 1 . https://github.com/radekosmulski/NVTabular
 * 2 . https://github.com/tunguz/TabularBenchmarks  (Tabular Bench Marking Repo)
